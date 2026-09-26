@@ -4,7 +4,7 @@ import com.qualcomm.hardware.limelightvision.Limelight3A;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 
 import org.firstinspires.ftc.vision.apriltag.AprilTagDetection;
-
+// note to self there are still errors in here
 public class TurretAutoAlignOpMode extends OpMode {
 
     private Limelight3A Limelight;

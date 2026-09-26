@@ -99,4 +99,5 @@ public class ServoExSwerveModule extends SwerveModule {
     public double getWheelAngleDeg() {
         return m_angleServo.getAngle();
     }
+    // note to self theres a lot of errors in here, get those fixed
 }

@@ -12,7 +12,7 @@ public class SwerveDriveCoefficients {
     public final Translation2d BACK_RIGHT_WHEEL_POSITION;
     public final String imuName;
     public PIDFCoefficients drivePIDFCoefficients, anglePIDCoefficients;
-
+// note to self theres a lot of errors in here
     /**
      * Constructor for SwerveDriveCoefficients.
      *

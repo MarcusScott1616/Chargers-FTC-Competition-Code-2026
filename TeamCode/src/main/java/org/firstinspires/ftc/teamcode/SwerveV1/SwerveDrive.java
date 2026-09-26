@@ -24,6 +24,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.Orientation;
  *
  * @see BaseDrive
  */
+// note to self theres a lot of errors in here
 public class SwerveDrive extends BaseDrive {
     /**
      * Maximum number of idle breaks before considering the robot stopped.

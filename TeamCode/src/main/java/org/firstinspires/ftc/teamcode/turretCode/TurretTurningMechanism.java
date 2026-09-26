@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 import com.qualcomm.robotcore.util.Range;
 
 import org.openftc.apriltag.AprilTagDetection;
-
+// note to self there are still errors in here
 public class TurretTurningMechanism {
     private DcMotorEx turret;
     // Motor that turns the turret.
